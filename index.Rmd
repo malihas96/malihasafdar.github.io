@@ -1,0 +1,18 @@
+---
+title: "p8105:Homework 4"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+### Welcome to my p8105 Fall 2025 Homework 4 website! 
+
+Here I will show cool plots on Instacart data and talk about my academic and professional experience.
+
+To view the Instacart data flexdashboard click [here](flexdashboard_instacart.html).
+
+For more information on my academic and professional background you can view my resume [here](about.html).
+
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRoMDlxdDhvY2pkM3JxOW5ta21ldWtzdGRpcGtiYjk1YjI0MmFsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzP4OLQHUxQHDnzXoX/giphy.gif)

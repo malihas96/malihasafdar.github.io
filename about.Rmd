@@ -1,0 +1,61 @@
+---
+title: "Academic and Professional Experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cosmo
+---
+
+## Resume
+
+### **Education**
+
+**Columbia University Mailman School of Public Health— Master of Science, Epidemiology**
+2025 - 2027 (Expected)
+
+**University of California San Diego—Bachelor of Science, Public Health: Medicine Sciences (in Honors)**
+2020-2022
+
+**Relevant Coursework**: Principles of Epidemiology I, Introduction to Biostatistical Methods, and Data Science I.
+
+### **Professional Experience**
+
+**Survey Researcher -  UC San Diego Health**    
+
+**10/22 - Present**
+
+* Spearheaded the quality assurance and data de-identification for annual and quarterly reports/dashboards submitted to the San Diego County.
+* Contributed to the development and oversight of surveys conducted across San Diego County.
+* Oversaw the general operations for Mental Health clinical sites in Southern California under the umbrella of EPI-CAL project.
+* Designed creative infographics and visually engaging materials that present health information and flowcharts in 
+an accessible format.
+
+**Instructional Assistant- UC San Diego School Department of Public Health**
+
+**01/22 -06/22**
+
+* Assisted in execution of teaching structure and plan for Health Policy and Biostatistics classes spanning 10 weeks 
+and maintained diligent records for attendance, grading, and participation.
+* Oversaw and evaluated assignments and in-class activities for 60 students while providing mentorship, 
+feedback, and guidance.
+* Facilitated office hours to provide extra academic support to 30+ students in Biostatistics.
+
+**Public Health Undergraduate Researcher at UC San Diego School of  Public Health**
+
+**09/21 - 06/22**
+
+* Recruited and surveyed students of UC San Diego to investigate their academic integrity and develop key 
+objectives to form an evaluation plan for the Public Health Honors Practicum.
+* Developed logic model and theory of change model which were used in creating a survey to analyze the 
+responses of 400+ participants.
+* Used IBM SPSS for quantitative data analysis and MS word for qualitative coding.
+* Conducted and analyzed surveys for 400+ participants quantitatively using SPSS software and qualitatively using 
+codebooks.
+
+### **Skills**
+* **Quantitative**: SPSS, R, Excel
+* **Other**: Survey Design, Graphic Design (Canva, Procreate)
+* **Languages**: English, Urdu, Hindi, and Punjabi
+
+To go back to the hompage click [here](index.html)
